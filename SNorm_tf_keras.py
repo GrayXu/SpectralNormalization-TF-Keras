@@ -3,7 +3,7 @@ from __future__ import division
 from __future__ import print_function
 
 from tensorflow.keras import backend as K
-# from tensorflow.keras.engine import *
+from tensorflow.keras.engine import *
 # from tensorflow.keras.legacy import interfaces
 from tensorflow.keras import activations
 from tensorflow.keras import initializers
